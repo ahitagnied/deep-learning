@@ -8,7 +8,7 @@ In each folder I have seminal papers related to the folder, and my own implement
 ## Table of Contents
 ---
 
-- Deep Neural Networks
+- [Deep Neural Networks](https://github.com/ahitagnied/deep-learning/tree/main/01-deep-neural-networks)
   - [DNN](https://github.com/ahitagnied/deep-learning/tree/main/01-deep-neural-networks/011-dnn): Autograd Engine using Python, TwoMoons 
   - [CNN](https://github.com/ahitagnied/deep-learning/tree/main/01-deep-neural-networks/012-cnn): MNIST Dataset
   - [LSTM](https://github.com/ahitagnied/deep-learning/tree/main/01-deep-neural-networks/014-lstm): Amazon Stock Forecasting
