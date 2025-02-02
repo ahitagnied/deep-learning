@@ -20,36 +20,22 @@ A deep dive into Deep Learning, focusing on Computer Vision and Computational Im
   - Optimizers (SGD, Adam, AdamW, AdaGrad, LookAhead)
   - Learning Rate Schedulers (CyclicLR, Warm Restarts)
   - Gradient Clipping & Gradient Accumulation
+- [Sequence & Modelling](https://github.com/ahitagnied/deep-learning/tree/main/03-sequence-modelling)
+  - Bigrams
+  - MLP
+  - RNN
+  - GRU
+  - Transformers
 - [Vision & Representation](https://github.com/ahitagnied/deep-learning)
   - Attention Mechanisms (Scaled Dot-Product, Multi-Head Attention)
   - Vision Transformers (ViT, Swin, DeiT)
   - CLIP & Contrastive Learning
   - Self-Supervised Learning (BYOL, SimCLR, MoCo)
-  - Dynamic Neural Networks
-  - Cross-Modal Learning
 - [Advanced Vision](https://github.com/ahitagnied/deep-learning/tree/main/05-advanced-vision/051-diffusion-models)
   - Diffusion Models (DDPM, Stable Diffusion)
-  - GANs (CycleGAN, StyleGAN, BigGAN) & VAEs (β-VAE, Conditional VAE)
-  - Neural Fields & Implicit Representations
-  - NeRF Architecture & Variants (Mip-NeRF, NeRF-W)
-  - Instant-NGP
-  - Point Clouds & Mesh Reconstruction (PointNet, PointNet++)
+  - GANs 
+  - NeRF
   - Implicit Neural Representations
-- [Neural Rendering](https://github.com/ahitagnied/deep-learning)
-  - Volume Rendering
-  - Ray Marching
-  - Multi-View Consistency
-  - View Synthesis
-  - Neural Radiance Caching
-  - Real-Time Neural Graphics
-  - Mesh-based Rendering
-  - Hybrid Neural Rendering Techniques
-- [Emerging Areas](https://github.com/ahitagnied/deep-learning)
-  - Diffusion-GAN Hybrids
-  - Reinforcement Learning in Vision (e.g., visual navigation)
-  - Federated Learning in Vision
-  - Edge and Mobile AI (e.g., EdgeNeRF, MobileNetV3)
-  - Quantum Neural Networks for Vision
 
 
 ## Features
